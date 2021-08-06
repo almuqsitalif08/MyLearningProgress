@@ -17,3 +17,13 @@ Repository ini berisi Pengalaman belajarku
     * [HTML5 Dasar](https://class.buildwithangga.com/welcome_course/html5-dasar)
     * [Struktur Data dengan Javascript](https://class.buildwithangga.com/welcome_course/struktur-data-dengan-javascript)
     * [Belajar Data Science dengan Python Pandas](https://class.buildwithangga.com/welcome_course/belajar-data-science-dengan-python-pandas)
+
+**6 Agustus 2021**   
+1. [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (Progress 62%) di [Dicoding Indonesia](https://www.dicoding.com/).
+      * Belajar beralih *branch* di Github
+      * Belajar *merge* pada *branch* di Github
+      * Belajar *merge with resolve conflict* pada *branch* di Github
+      * Belajar fitur *pull request* pada *branch* di Github
+2. Mendaftar dan mendapatkan beberapa kelas premium di [BWA (Buils with Angga)](https://buildwithangga.com/).
+      * [Full-Stack Web Developer](https://class.buildwithangga.com/welcome_course/full-stack-web-developer)
+      * [Full-Stack Android Developer](https://class.buildwithangga.com/welcome_course/full-stack-android-developer)
