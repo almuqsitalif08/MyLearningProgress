@@ -27,3 +27,10 @@ Repository ini berisi Pengalaman belajarku
 2. Mendaftar dan mendapatkan beberapa kelas premium di [BWA (Buils with Angga)](https://buildwithangga.com/).
       * [Full-Stack Web Developer](https://class.buildwithangga.com/welcome_course/full-stack-web-developer)
       * [Full-Stack Android Developer](https://class.buildwithangga.com/welcome_course/full-stack-android-developer)
+3. Memilih beberapa Mata Kuliah semester 7 di [Universitas Sriwijaya](https://unsri.ac.id/)
+      * Etika Profesi
+      * Interaksi Manusia dan Komputer
+      * Kapita Selekta
+      * Cloud Computing
+      * Mobile Computing
+      * Pengenalan Pola
