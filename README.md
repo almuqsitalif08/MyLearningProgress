@@ -48,3 +48,10 @@ Repository ini berisi Pengalaman belajarku
  2. Mendapatkan [Sertifikat Kelulusan](https://www.dicoding.com/certificates/2VX32646VPYQ) pada kelas [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) di [Dicoding Indonesia](https://www.dicoding.com/).   
     ![Sertifikat Kelulusan Kelas Belajar Dasar Git dengan Github!](/assets/github_sertif.jpg)
  3. Mendapatkan kelas [Belajar Fundamental Aplikasi Back-End](https://www.dicoding.com/academies/271) di [Dicoding Indonesia](https://www.dicoding.com/).
+
+**25 Agustus 2021**    
+1. Orbit Future Academy kelas Artificial Intelligence for Gen Y (Studi Independen Kampus Merdeka, hari ketiga)
+   * Belajar tentang Domain AI
+   * Belajar tentang Data Science (Pengantar, Sejarah, Data, Penerapan)
+   * Belajar tentang Natural Language Processing (Pengantar, Penerapan)
+   * Belajar tentang Computer Vision (Pengantar, Penerapan)
