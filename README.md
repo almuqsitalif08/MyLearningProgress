@@ -57,7 +57,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Computer Vision (Pengantar, Penerapan)
 
 **26 Agustus 2021**    
-1. Orbit Future Academy kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari keempat)    
+1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari keempat)    
    [*dokumentasi*](/assets/dokumentasi/26082021orbit.png) 
    * Belajar tentang System Thinking
    * Berdiskusi tentang Sistem Pengaman pada Zebra Cross tidak dilampu merah, Penggunaan KBBI, Tingginya tingkat pengangguran dari Perguruan Tinggi.
@@ -67,12 +67,12 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Proyek Vegita (Studi Kasus Harga Kimchi)
 
 **27 Agustus 2021**
-1. Orbit Future Academy kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari kelima)    
+1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari kelima)    
    [*dokumentasi*](/assets/dokumentasi/27082021orbit.png) 
    * Belajar tentang Potensi Diri
    * Belajar tentang Cara mengembangkan diri
    * Belajar tentang Impostor Syndrome
-2. Universitas Nurul Jadid kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), pertemuan pertama)     
+2. [Universitas Nurul Jadid](https://www.unuja.ac.id/) kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), pertemuan kedua)     
    [*dokumentasi*](/assets/dokumentasi/27082021unuja.png)
    * Belajar tentang Android Studio
    * Belajar cara download Android Studio
@@ -86,3 +86,20 @@ Repository ini berisi Pengalaman belajarku
    * Belajar cara menjalankan aplikasi di Real Device
    * Belajar cara mirror Real Device
    * Belajar tentang UI dan UX 
+
+**28 Agustus 2021**    
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Cloud Computing (Pertemuan kedua)      
+   [*dokumentasi*](/assets/dokumentasi/28082021cloud.png)     
+   * Belajar tentang Big Data
+   * Belajar tentang 5V (volume, velocity, variety, veracity, dan value)
+   * Belajar tentang fungsi Big Data
+   * Belajar tentang manfaat Big Data
+   * Belajar tentang tools yang digunakan dalam Big Data
+2. [Universitas Nurul Jadid](https://www.unuja.ac.id/) kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), pertemuan ketiga)     
+   [*dokumentasi*](/assets/dokumentasi/28082021unuja.png)     
+   * Belajar cara download Android Studio (Praktikum)
+   * Belajar Instalasi Android Studio (Praktikum)
+   * Belajar membuat proyek Android baru (Praktikum)
+   * Belajar Instalasi Emulator dan Real Device (Praktikum)
+   * Belajar cara menjalankan Aplikasi di Emulator dan Real Device (Praktikum)
+   * Belajar cara mirror Perangkat Android di PC (Praktikum)
