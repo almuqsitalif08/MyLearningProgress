@@ -47,11 +47,42 @@ Repository ini berisi Pengalaman belajarku
     * Belajar memanfaatkan Github sebagai Portofolio
  2. Mendapatkan [Sertifikat Kelulusan](https://www.dicoding.com/certificates/2VX32646VPYQ) pada kelas [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) di [Dicoding Indonesia](https://www.dicoding.com/).   
     ![Sertifikat Kelulusan Kelas Belajar Dasar Git dengan Github!](/assets/github_sertif.jpg)
- 3. Mendapatkan kelas [Belajar Fundamental Aplikasi Back-End](https://www.dicoding.com/academies/271) di [Dicoding Indonesia](https://www.dicoding.com/).
 
 **25 Agustus 2021**    
-1. Orbit Future Academy kelas Artificial Intelligence for Gen Y (Studi Independen Kampus Merdeka, hari ketiga)
+1. Orbit Future Academy kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari ketiga)    
+   [*dokumentasi*](/assets/dokumentasi/25082021orbit.png)
    * Belajar tentang Domain AI
    * Belajar tentang Data Science (Pengantar, Sejarah, Data, Penerapan)
    * Belajar tentang Natural Language Processing (Pengantar, Penerapan)
    * Belajar tentang Computer Vision (Pengantar, Penerapan)
+
+**26 Agustus 2021**    
+1. Orbit Future Academy kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari keempat)    
+   [*dokumentasi*](/assets/dokumentasi/26082021orbit.png) 
+   * Belajar tentang System Thinking
+   * Berdiskusi tentang Sistem Pengaman pada Zebra Cross tidak dilampu merah, Penggunaan KBBI, Tingginya tingkat pengangguran dari Perguruan Tinggi.
+   * Belajar tentang Algoritma dan Flowchart
+   * Belajar tentang Data Flow
+   * Belajar tentang System Map
+   * Belajar tentang Proyek Vegita (Studi Kasus Harga Kimchi)
+
+**27 Agustus 2021**
+1. Orbit Future Academy kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari kelima)    
+   [*dokumentasi*](/assets/dokumentasi/27082021orbit.png) 
+   * Belajar tentang Potensi Diri
+   * Belajar tentang Cara mengembangkan diri
+   * Belajar tentang Impostor Syndrome
+2. Universitas Nurul Jadid kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), pertemuan pertama)     
+   [*dokumentasi*](/assets/dokumentasi/27082021unuja.png)
+   * Belajar tentang Android Studio
+   * Belajar cara download Android Studio
+   * Belajar cara Install Android Studio
+   * Belajar cara membuat aplikasi sederhana
+   * Belajar tentang toolbar Android Studio
+   * Belajar tentang Struktur Direktori Android Studio
+   * Belajar tentang Gradle
+   * Belajar cara membuat emulator di Android Studio
+   * Belajar cara menjalankan aplikasi di Emulator
+   * Belajar cara menjalankan aplikasi di Real Device
+   * Belajar cara mirror Real Device
+   * Belajar tentang UI dan UX 
