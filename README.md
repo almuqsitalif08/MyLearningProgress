@@ -148,3 +148,23 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang AI tanpa Bias
    * Belajar cara memperbaiki Bias pada AI
    * Belajar tentang Masa Depan AI
+
+**01 September 2021**
+1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari ketiga)    
+   [*dokumentasi*](/assets/dokumentasi/01092021orbit.png)      
+   * Belajar tentang Vektor
+       * Penjumlahan
+       * Pengurangan
+       * Dot Product
+   * Belajar tentang Matriks
+       * Penjumlahan
+       * Pengurangan
+       * Perkalian
+       * Determinant
+       * Invers
+   * Belajar tentang Nilai dan Vektor Eigen
+   * Belajar tentang Fungsi
+   * Belajar tentang Turunan
+   * Belajar tentang Peluang
+   * Belajar tentang Peluang Bersyarat
+   * Teorema Bayes
