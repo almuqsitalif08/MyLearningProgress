@@ -103,3 +103,48 @@ Repository ini berisi Pengalaman belajarku
    * Belajar Instalasi Emulator dan Real Device (Praktikum)
    * Belajar cara menjalankan Aplikasi di Emulator dan Real Device (Praktikum)
    * Belajar cara mirror Perangkat Android di PC (Praktikum)
+
+**30 Agustus 2021**
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Etika Profesi (Pertemuan pertama)      
+   [*dokumentasi*](/assets/dokumentasi/30082021etprof.png)     
+   * Belajar tentang Dasar Pemikiran Etika
+   * Belajar tentang Pengertian dan definisi Etika
+   * Belajar tentang Ideologi, Etika, Filsafat dan Ilmu Pengetahuan
+   * Belajar tentang Pelanggaran Etika dan Hukum
+   * Belajar tentang Sanksi Pelnaggaran Etika dan Hukum
+   * Belajar tentang Etika Komputer
+   * Belajar tentang Tantangan Masa Depan Etika dan Teknologi
+   * Belajar tentang Kebutuhan Manusia
+   * Belajar tentang pengertian Profesi
+   * Belajar tentang ciri profesi
+   * Belajar hubungan anatara pekerjaan dan profesi
+   * Belajar tentang Etika Profesi
+   * Belajar tentang Prinsip Etika Profesi
+   * Belajar tentang Kode Etik (Definisi, Tujuan, Maksud, Fungsi, Sanksi/Pelanggaran)
+   * Belajar tentang Kode Etik Profesional Teknologi Informasi
+   * Belajar tentang Etika Pengguna Internet
+   * Belajar tentang Etika Programmer
+   * Belajar tentang Etika TI dalam Undang-Undang
+2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari pertama)    
+   [*dokumentasi*](/assets/dokumentasi/30082021orbit.png) 
+   * Belajar tentang Pengertian Data
+   * Belajar tentang Structured and Unstructured Data
+   * Belajar tentang Jenis Data (berdasarkan sifat, skala dan sumber data)
+   * Belajar tentang Kualitas Data
+
+**31 Agustus 2021**
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Interaksi Manusia dan Komputer (Pertemuan kedua)      
+   * Belajar tentang pengertian Interaksi Manusia dan Komputer
+   * Belajar tentang sejarah antarmuka
+   * Belajar pentingnya Interaksi Manusia dan Komputer
+2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari kedua)    
+   [*dokumentasi*](/assets/dokumentasi/31082021orbit.png) 
+   * Belajar tentang Pengertian Etika AI
+   * Belajar pentingnya Etika AI
+   * Belajar tentang prinsip Etika AI
+   * Belajar tentang AI Bias
+   * Belajar tentang Jenis AI Bias
+   * Belajar tentang contoh AI Bias
+   * Belajar tentang AI tanpa Bias
+   * Belajar cara memperbaiki Bias pada AI
+   * Belajar tentang Masa Depan AI
