@@ -168,3 +168,12 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Peluang
    * Belajar tentang Peluang Bersyarat
    * Teorema Bayes
+
+**02 September 2021**
+1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari keempat)    
+   [*dokumentasi*](/assets/dokumentasi/02092021orbit.png)      
+   * Belajar tentang Data is the New Oil.
+   * Belajar tentang Revolusi Industri
+   * Belajar tentang perubahan Data akibat Revolusi Industri
+   * Belajar tentang Big Data (Volume, Velocity, Variety)
+   * Belajar tentang karakteristik Big Data
