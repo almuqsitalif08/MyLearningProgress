@@ -177,3 +177,27 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang perubahan Data akibat Revolusi Industri
    * Belajar tentang Big Data (Volume, Velocity, Variety)
    * Belajar tentang karakteristik Big Data
+
+**03 September 2021**
+1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari kelima)    
+   [*dokumentasi*](/assets/dokumentasi/03092021orbit.png)      
+   * Belajar tentang Komunikasi Efektif
+   * Belajar tentang Keterampilan Komunikasi
+   * Belajar tentang Proses Komunikasi
+   * Belajar tentang Hambatan dalam Komunikasi
+   * Belajar tentang Komponen dalam Komunikasi
+   * Belajar tentang Etika dalam Berkomunikasi
+   * Belajar tentang Kiat dalam Berkomunikasi
+2. [Universitas Nurul Jadid](https://www.unuja.ac.id/) kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), pertemuan keempat)     
+   * Belajar tentang View
+   * Belajar tentang Atribut pada View
+   * Belajar tentang Layout Editor Android Studio
+   * Belajar cara mendefinisikan View di XML
+   * Belajar tentang Atribut View di XML
+   * Belajar tentang ViewGroup, ilustrasi dan hierarkinya
+   * Belajar tentang Resource dalam Project
+   * Belajar tentang Activity, contoh dan implementasinya
+   * Belajar cara mendefinisikan Layout di XML
+   * Belajar cara mendefinisikan Activity dalam Kotlin Class
+   * Belajar cara menghubungkan Activity dengan Layout
+   * Belajar cara mendeklarasikan Activity di AndroidManifest
