@@ -1,0 +1,78 @@
+Saluran input-output
+- Penglihatan
+-- Mata manusia
+-- Persepsi visual, kemampuan untuk menerjemahkan apa yang dilihat mata.
+-- Depth Perception, kemampuan untuk dapat melihat hal dalam bentuk tiga dimensi dan penilaian terhadap objek.
+-- Kecerahan, tingkat gelap terangnya suatu warna
+-- Warna, kkomposisi warna dalam tampilan
+-- Kemampuan dan kendala pemrosesan visual
+-- Membaca
+- Pendengaran
+-- Telinga
+--- Memproses bunyi
+- Sentuhan
+- Pergerakan
+
+Memori Manusia
+- Memori sensorik
+- Memori jangka pendek
+- Memori jangka panjang
+
+Pengguna perlu dipahami
+- berinteraksi dengan teknologi adalah aktivitas kognitif
+-- kognitif -> semua aktifitas yang berhubungan dengan persepsi, pikiran, ingatan dan pengolahan informasi yang memungkinkan seseorang memperoleh pengetahuan, memcahkan masalah dan merencakan masa depan atau semau proses psikologi yang berkaitan dengan bagaimana individu mempelajari, memperhatikan, mengamati, membayangkan, memperkirakan, menilai dan memikirkan lingkungannya.
+- perlu memperhitungkan proses dan kendala kognitif manusia
+- mengetahu apa yang dapat dan tidak dapat dilakukan pengguna
+- mengidentifikasi dan menjelaskan sifat dan penyebab masalah yang dihadapi pengguna
+- menyediakan teori, alat pemodelan, pedoman dan metode yang dapat membanti merancang produk yang lebih interaktif
+
+Perhatian
+- Memilih hal-hal yang menjadi fokus (fokus perhatian) dari lingkungan, pada waktu tertentu
+- Kemampuan untuk memfokuskan dan membagi perhatian memungkinkan kita untuk memilih untuk fokus pada salah satu dari banyak hal yang terjadi di sekitar kita, tetapi membatasi kemampuan manusia untuk melacak semua hal yang terjadi.
+- Informasi pada antarmuka perlu disusun agar dapat menarik perhatian pengguna, misalnya penggunaan jendela, warna, suara, dan lampu berkedip.
+
+Dampak desain terhadap Perhatian
+- buat informasinya menonjol jika anda ingin menarik perhatian
+- gunakan teknik yang dapat menyorot sesuatu seperti warna, garis dan animasi
+- hindari memuat terlalu banyak informasi pada tampilan yang sama
+
+Persepsi
+- bagaimana informasi diperoleh dari lingkungan dan diubah menjadi pengalaman
+- implikasi -> representasi desain harus mudah dilihat
+-- teks harus mudah dibaca
+-- ikon harus mudah dibedakan dan dibaca
+
+Model Mental
+- Craik (1943), konstruksi internal dari beberapa aspek eksternal yang memungkinkan prediksi dibuat
+- melibatkan proses yang terjadi secara sadar dan tidak sadar
+- menjadi dasar dalam pembangunan desain sistem
+
+Prinsip Kegunaan (Usability)
+- masalah optimasi penggunaan sistem oleh pengguna
+- sistem yang baik akan dipergunakan secara maksimal oleh pengguna sehingga semua kemampuan sistem dapat termanfaatkan
+- pengukuran usability dapat melalui ISO, DIX (1993)
+- prinsip dalam UID
+-- Kemampuan belajar (learnability), dukungan untuk pembelajaran bagi pengguna dari semua tingkat sehinga mendapat hasil yang baik
+-- Kesesuaian (flexibility), dukungan beberapa cara untuk melakukan tugas dilihat dari seberapa besar antara sistem dengan keahlian seorang pemakai sistem
+-- Ketangguhan (robustness), pemulihan jika ada kesalahan.
+
+Prinsip Learnability
+- Predictability, mendukung oengguna untuk dapat menentukan efek dari future action berdasarkan catatan interaksi yang sudah pernah dilakukannya.
+- Synthesizability, membantu pengguna untuk memperkirakan efek dari proses yang dilakukan sebelumnya pada keadaan saat ini.
+- Familiarity, pengalaman atau pengetahuan seseorang dalam desain tampilan
+- Generalisasi, membantu pengguna untuk menambah pengetahuan dari interaksi tertentu didalam atau diluar aplikasi.
+- Konsistensi, kemiripan perilaku antara tugas" serupa.
+
+Prinsip Flexibility
+- Multithreading, melakukan lebih dari satu tugas pada waktu yang sama
+-- concurrent, input dilakukan pada beberapa tugas secara simultan
+-- interleaved, input dilakukan pada banyak tugas secara satu persatu
+- Task Migrability, kemampuan memindahkan tugas kinerja untuk entitas (pengguna atau sistem) agar dapat melakukan tugas tersebut dengan lebih baik.
+- Customizability, kemampuan pengguna untuk mengubah tampilan.
+- Dialog Initiative, pengguna dapat terbebas dari kendala" buatan yang dipaksakan oleh sistem
+
+Prinsip Robustness
+- Observability, dapat menentukan keadaan interval sistem dari apa yang dimengerti pengguna.
+- Recoverability, kemampuan untuk mengambil tindakan korektif terhadap kesalahan yang terjadi.
+- Responsif, Pengguna mengetahui laju komunikasi melalui sistem
+- Task Conformance, sistem mendukung semua tugas yang diingkan pengguna dengan cara yang diketahui oleh pengguna.
