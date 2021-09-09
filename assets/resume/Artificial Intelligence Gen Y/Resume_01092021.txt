@@ -1,0 +1,54 @@
+Matematika Dasar untuk Kecerdasan Buatan
+- Aljabar Linier
+-- Matriks
+-- Vektor
+-- Nilai dan Vektor Eigen
+- Kalkulus
+-- Fungsi
+-- Turunan
+-- Optimisasi
+- Peluang
+-- Konsep Dasar
+-- Peluang Bersyarat
+-- Teorema Bayes
+
+Aljabar Linier diaplikasikan dalam data science untuk
+- Vectorized Code, membuat komputasi berjalan secara simultan
+- Image Recognition
+- Dimensionality Reduction, mengurangi dimensi atau bagian yang serupa dan tidak diperlukan
+
+Vektor
+- Besaran yang memeliki arah
+- Kumpulan nilai dalam variabel tertentu
+- Vektor berdimensi sama dapat dioperasikan
+- Skalar -> Konstanta atau besaran yang memiliki nilai
+- Jarak Euclidean
+- Jarak Manhattan
+- Sudut antar Vektor (Cosine Similarity)
+
+Matriks
+- Penjumlahan matriks
+- Pengurangan matriks
+- Perkalian matriks
+- Determinant
+- Invers
+- Penerapan Invers, mencari pengaruh x, y dan z terhadap hasil (A*X=B)
+
+Nilai dan Vektor Eigen
+- Bilanagan yang berasosiasi dengan panjang vektor yang berubah setelah ditransformasikan oleh matriks
+
+Fungsi dan Gradient
+- Aturan yang memetakan antara 2 himpunan
+- Gradient adalah besaran perubahan atau kemiringan
+
+Peluang
+- Menghitung peluang suatu prediksi
+- Menghitung peluang error atau kegagalan
+- Memahami distribusi data
+- Memperkirakan pengaruh suatu variabel terhadap hasil prediksi
+- Memperkirakan hal-hal lain yang berpotensi mempengaruhi performance program
+
+Peluang Bersyarat
+- saling lepas, 
+- saling bebas
+- Teorema Bayes

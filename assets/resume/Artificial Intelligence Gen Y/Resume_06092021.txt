@@ -1,0 +1,60 @@
+Problem Scoping
+- Masalah (Problem) didefinisikan sebagai sebuah pernyataan yang jelas menggambarkan keadaan awal dari masalah yang harus yang dipecahkan. Pernyataan tersebut menunjukan properti masalah seperti tugas yang harus diselesaikan, kinerja sistem yang ada saat ini dan pengalaman dengan sistem saat ini.
+- The Problem scoping refers to the identification of a problem and vision to solve it.
+
+Tujuan Pembangunan Berkelanjutan (Sustainable Development Goals)
+1. Menghapus Kemiskinan
+2. Mengakhiri Kelaparan
+3. Kesehatan yang Baik dan Kesejahteraan
+4. Pendidikan Bermutu
+5. Kesetaraan Gender
+6. Akses Air Bersih dan Sanitasi
+7. Energi Bersih dan Terjangkau
+8. Pekerjaan Layak dan Pertumbuhan Ekonomi
+9. Infrastuktur, Industri dan Inovasi
+10. Mengurangi Ketimpangan
+11. Kota dan Komunitas yang Berkelanjutan
+12. Konsumsi dan Produksi yang Bertanggungjawab
+13. Penanganan Perubahan Iklim
+14. Menjaga Ekosistem Laut
+15. Menjaga Ekosistem Darat
+16. Perdamaian, Keadilan dan Kelembagaan yang Kuat
+17. Kemitraan untuk Mencapai Tujuan
+
+Proses sebuah masalah
+1. Identity Problem
+2. Brainstorm Solution
+3. Make Production
+4. Test Idea (if bad) <-> Revise
+5. Share Results
+6. Ask New Question -> 1
+
+The 4Ws of Problem Scoping
+- WHO -> mengacu pada siapa yang menghadapi masalah dan siapa pemangku kepentingan dari masalah tersebut.
+- WHAT -> mengacu pada apa masalahnya dan bagaimana Anda tahu tentang masalahnya.
+- WHERE -> hal ini terkait dengan konteks atau situasi atau lokasi masalah
+- WHY -> mengacu pada mengapa kita perlu memcahkan masalah dan apa manfaatnya bagi para pemangku kepentingan setelah menyelesaikan masalah.
+
+Reference CBSE Study Material
+1. Environment
+2. Agriculture
+3. Traffic
+4. Infrastruktur
+5. Health
+6. Security
+7. Education
+8. Digital Literacy
+9. Women Safety
+10. Transport
+11. Entertainment
+12. Cyber Security
+13. Travel Tourism
+14. Disability
+15. Social Warfare
+16. Research
+
+Masalah yang tepat -> Perencanaan projek yang lebih baik
+- STAGE I -> Project Palnning & data collection
+- STAGE II -> Design & training of the Machine Learning (ML) model
+- STAGE III -> Deployment & maintenance
+
