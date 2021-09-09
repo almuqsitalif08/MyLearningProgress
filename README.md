@@ -289,3 +289,13 @@ Repository ini berisi Pengalaman belajarku
       * Power BI
    *  Belajar cara menyajikan dan menyampaikan Data
    *  Belajar beberapa kesalahan dalam menyajikan data
+
+**09 September 2021**
+1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari keempat)    
+   [*dokumentasi*](/assets/dokumentasi/09092021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_09092021.txt)      
+   * Belajar tentang Modelling
+   * Belajar tentang perbedaan Traditional Programming dan Machine Learning Approach
+   * Belajar tentang pendahuluan supervised dan unsupervised learning
+   * Belajar tentang pendahuluan Artificial Intelligence dan Deep Learning
+   * Belajar tentang Confusion Matrix
