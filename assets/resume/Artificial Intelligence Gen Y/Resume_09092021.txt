@@ -1,0 +1,66 @@
+Modelling
+- representasi suatu masalah dalam bentuk yang lebih sederhana sehinggga lebih jelas dan mudah dikerjakan.
+- model yang baik cukup mengandung bagian-bagian yang perlu saja.
+1. Persoalan Dunia Nyata
+2. dirumuskan menjadi model matematika
+3. dipecahkan menjadi kesimpulan matematika
+4. ditafsirkan menjadi prakiraan dunia nyata
+5. diuji menjadi 1.
+
+Traditional Programming
+- memiliki aturan tertentu
+- aturan berdasarkan kondisi
+- menghasilkan jawaban
+
+Machine Learning Approach
+- menghasilkan aturan
+- Supervised Learning
+- Unsupervised Learning
+- Reinforced Learning
+
+Supervised Learning
+- Determine relationships through training
+- memerlukan supervisor
+- untuk menemukan pola dalam data masukan yang diberi label sehingga memungkinkan menghasilkan data keluaran yang benar secara efektif.
+- Ciri-ciri
+-- Data training telah diberi label
+-- Algoritma memprediksi output dari input (Klasifikasi dan Regresi)
+
+Unsupervised Learning
+- Discover new patterns
+- tanpa supervisor
+- untuk mempelajari struktur karakteristik data tanpa menggunakan label yang disediakan secara eksplisit
+- Ciri-ciri
+-- Data training tidak berlabel
+-- Algoritma mempelajari struktur karakteristik dari data masukan (Clustering dan Dimensional Reduction)
+
+Artificial Neural Networks
+- Teknologi AI yang meniru dan terinspirasi dari cara kerja neuron pada otak manusia.
+- Gabungan dari beberapa neuron (perceptron) yang disusun dalam beberapa lapisan (layer)
+- Input Data -> Input Layers -> Hidden Layers -> Output Layers
+- cikal bakal dari teknologi Deep Learning yang tersusun atas banyak sekali lapisan neuron (perceptron).
+
+Deep Learning
+- mampu melatih dirinya sendiri dalam melakukan tugas dengan data yang besar
+- Penerapan
+-- Face Recognition
+-- Speech Recognition
+-- Character Recognition
+
+Confusion Matrix
+- True Positive (TP)
+- True Negative (TN)
+- False Negative (FN)
+- False Positive (FP)
+- Akurasi
+-- persentase prediksi yang benar dari semua pengamatan
+-- (prediksi benar)/(semua kasus)
+-- (TP + TN)/(TP + FP + TN + FN)
+- Presisi
+-- persentase kasus yag diprediksi positif (TP + FP) yang ternyata positif (TP)
+-- (True Positive)/(Total Prediksi Positif)
+-- (TP)/(TP + FP)
+- Recall
+-- Pecahan kasus positif yang diidentifikasi dengan benar.
+-- (True Positive)/(Total Aktual Positive)
+-- (TP)/(TP + FN)
