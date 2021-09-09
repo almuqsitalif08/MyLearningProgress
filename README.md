@@ -107,6 +107,7 @@ Repository ini berisi Pengalaman belajarku
 **30 Agustus 2021**
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Etika Profesi (Pertemuan pertama)      
    [*dokumentasi*](/assets/dokumentasi/30082021etprof.png)     
+   [*resume*](/assets/resume/Etika%20Profesi/Resume_31082021.txt)     
    * Belajar tentang Dasar Pemikiran Etika
    * Belajar tentang Pengertian dan definisi Etika
    * Belajar tentang Ideologi, Etika, Filsafat dan Ilmu Pengetahuan
@@ -126,19 +127,22 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Etika Programmer
    * Belajar tentang Etika TI dalam Undang-Undang
 2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari pertama)    
-   [*dokumentasi*](/assets/dokumentasi/30082021orbit.png) 
+   [*dokumentasi*](/assets/dokumentasi/30082021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_30082021.txt)
    * Belajar tentang Pengertian Data
    * Belajar tentang Structured and Unstructured Data
    * Belajar tentang Jenis Data (berdasarkan sifat, skala dan sumber data)
    * Belajar tentang Kualitas Data
 
 **31 Agustus 2021**
-1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Interaksi Manusia dan Komputer (Pertemuan kedua)      
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Interaksi Manusia dan Komputer (Pertemuan kedua)     
+   [*resume*](/assets/resume/Interaksi%20Manusia%20dan%20Komputer/Resume_31082021.txt)         
    * Belajar tentang pengertian Interaksi Manusia dan Komputer
    * Belajar tentang sejarah antarmuka
    * Belajar pentingnya Interaksi Manusia dan Komputer
 2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari kedua)    
-   [*dokumentasi*](/assets/dokumentasi/31082021orbit.png) 
+   [*dokumentasi*](/assets/dokumentasi/31082021orbit.png)     
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_31082021.txt)      
    * Belajar tentang Pengertian Etika AI
    * Belajar pentingnya Etika AI
    * Belajar tentang prinsip Etika AI
@@ -152,6 +156,7 @@ Repository ini berisi Pengalaman belajarku
 **01 September 2021**
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari ketiga)    
    [*dokumentasi*](/assets/dokumentasi/01092021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_01092021.txt)      
    * Belajar tentang Vektor
        * Penjumlahan
        * Pengurangan
@@ -171,7 +176,8 @@ Repository ini berisi Pengalaman belajarku
 
 **02 September 2021**
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari keempat)    
-   [*dokumentasi*](/assets/dokumentasi/02092021orbit.png)      
+   [*dokumentasi*](/assets/dokumentasi/02092021orbit.png)     
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_02092021.txt)      
    * Belajar tentang Data is the New Oil.
    * Belajar tentang Revolusi Industri
    * Belajar tentang perubahan Data akibat Revolusi Industri
@@ -181,6 +187,7 @@ Repository ini berisi Pengalaman belajarku
 **03 September 2021**
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari kelima)    
    [*dokumentasi*](/assets/dokumentasi/03092021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_03092021.txt)      
    * Belajar tentang Komunikasi Efektif
    * Belajar tentang Keterampilan Komunikasi
    * Belajar tentang Proses Komunikasi
@@ -189,6 +196,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Etika dalam Berkomunikasi
    * Belajar tentang Kiat dalam Berkomunikasi
 2. [Universitas Nurul Jadid](https://www.unuja.ac.id/) kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), pertemuan keempat)     
+   [*resume*](/assets/resume/Pemrograman%20Android%20dengan%20Kotlin/Resume_03092021.txt)      
    * Belajar tentang View
    * Belajar tentang Atribut pada View
    * Belajar tentang Layout Editor Android Studio
@@ -201,3 +209,83 @@ Repository ini berisi Pengalaman belajarku
    * Belajar cara mendefinisikan Activity dalam Kotlin Class
    * Belajar cara menghubungkan Activity dengan Layout
    * Belajar cara mendeklarasikan Activity di AndroidManifest
+
+**06 September 2021**     
+1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari pertama)    
+   [*dokumentasi*](/assets/dokumentasi/06092021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_06092021.txt)      
+   * Belajar tentang Problem Scoping
+   * Belajar tentang Sustainable Development Goals
+   * Belajar tentang Poses sebuah masalah
+   * Belajar tantang 4W (who, what, where, why)
+   * Belajar tentang Reference CBSE Study Material
+   * Belajar bahwa mengidentifikasi masalah yang tepat dapat membuat perencanaan yang lebih baik
+   * Belajar berkelompok dengan pokok bahasan kasus dari salah satu Reference CBSE Study Material
+
+**07 September 2021**    
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Interaksi Manusia dan Komputer (Pertemuan ketiga)     
+   [*dokumentasi*](/assets/dokumentasi/07092021imk.png)      
+   [*resume*](/assets/resume/Interaksi%20Manusia%20dan%20Komputer/Resume_07092021.txt)         
+   * Belajar tentang Saluran Input dan Output dalam Interaksi Manusia dan Komputer
+   * Belajar tentang jenis memori manusia
+   * Belajar tentang alasan perlu memahami pengguna
+   * Belajar tentang Tips Perhatian
+   * Belajar tentang Dampak desain terhadap perhatian
+   * Belajar tentang Persepsi
+   * Belajar tentang Model Mental
+   * Belajar tentang Prinsip Kegunaan (Usability)
+   * Belajar tentang Prinsip Pembelajaran (Learnability)
+      * Predictability
+      * Familiarity
+      * Generalisasi
+      * Konsistensi
+   * Belajar tentang Prinsip Kesesuaian (Flexibility)
+      * Multi Threading
+      * Task Migrability
+      * Dialog Initiative
+   * Belajar tentang prinsip Ketahanan (Robustness)
+      * Observability
+      * Recoverability
+      * Responsif
+      * Task Conformance
+2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari kedua)    
+   [*dokumentasi*](/assets/dokumentasi/07092021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_07092021.txt)      
+   * Belajar tentang Data Acquisition
+   * Belajar tentang Pengolahan Data
+   * Belajar tentang Analisis Data
+   * Belajar tentang Dataset
+   * Belajar tentang Data Kuantitatif, Kualitatif, Binomial, Data Nominal dan Data Ordinal
+   * Belajar tentang Data Source
+      * Survey
+      * Web Scrapping
+      * Sensor
+      * Camera
+      * Observasi
+      * API
+
+**08 September 2021**
+1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari ketiga)    
+   [*dokumentasi*](/assets/dokumentasi/08092021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_08092021.txt)      
+   * Belajar tentang Data Exploration
+   * Belajar tentang Summary Descriptive Statistics
+      * Frekuensi
+      * Modus
+      * Mean
+      * Median
+      * Range
+      * Variansi
+   * Belajar tentang Tabel
+   * Belajar tentang Diagram
+   * Belajar tentang Visualisasi Data dalam Bisnis
+      * ScoreCard
+      * DashBoard
+      * Report
+      * Analytic Report
+   * Belajar beberapa tools dalam Visualisasi Data
+      * Tableau
+      * Spreadsheet/excel
+      * Power BI
+   *  Belajar cara menyajikan dan menyampaikan Data
+   *  Belajar beberapa kesalahan dalam menyajikan data
