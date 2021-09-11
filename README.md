@@ -299,3 +299,22 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang pendahuluan supervised dan unsupervised learning
    * Belajar tentang pendahuluan Artificial Intelligence dan Deep Learning
    * Belajar tentang Confusion Matrix
+
+**10 September 2021**
+1. [Universitas Nurul Jadid](https://www.unuja.ac.id/) kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), pertemuan kelima, belajar mandiri)     
+   [*resume*](/assets/resume/Pemrograman%20Android%20dengan%20Kotlin/Resume_10092021.txt)      
+   * Belajar tentang UI dan UX
+   * Belajar mengenal Drawables
+   * Belajar mengenal Image Asset Studio
+   * Belajar mengenal Vector Asset Studio
+   * Belajar mengenal Style
+   * Belajar mengenal Themes
+   * Belajar mengenal Font dan Color
+
+**11 September 2021**
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Cloud Computing (Pertemuan keempat)     
+   [*dokumentasi*](/assets/dokumentasi/11092021cloud.png)      
+   * Belajar tentang beberapa kasus Illegal Access pada Cloud Computing
+      * DDOS
+      * Ransomware
+      * Injection SQL 
