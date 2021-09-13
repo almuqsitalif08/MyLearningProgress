@@ -326,7 +326,7 @@ Repository ini berisi Pengalaman belajarku
       * Talk to Me (Part1 and Part2)
       * Ball Bounce
       * Digital Doodle
-2. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Kapita Selekta (pertemuan keenam)
+2. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Kapita Selekta (pertemuan keenam)      
    [*dokumentasi*](/assets/dokumentasi/13092021kapsel.png)      
    [*resume*](/assets/resume/Kapita%20Selekta/Resume_13092021.txt)      
    * Belajar tentang Data Science VS Data Analytics
