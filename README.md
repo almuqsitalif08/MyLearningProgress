@@ -318,3 +318,46 @@ Repository ini berisi Pengalaman belajarku
       * DDOS
       * Ransomware
       * Injection SQL 
+
+**13 September 2021**
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Mobile Computing (belajar mandiri)     
+   * Menyelesaikan beberapa tutorial di [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/beginner-videos)
+      * Hello Codi!
+      * Talk to Me (Part1 and Part2)
+      * Ball Bounce
+      * Digital Doodle
+2. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Kapita Selekta (pertemuan keenam)
+   [*dokumentasi*](/assets/dokumentasi/13092021kapsel.png)      
+   [*resume*](/assets/resume/Kapita%20Selekta/Resume_13092021.txt)      
+   * Belajar tentang Data Science VS Data Analytics
+   * Belajar tentang Tipe Data Analytics
+      * Descriptive
+      * Diagnostive
+      * Preedictive
+      * Prescriptive
+    * Belajar tentang Siklus Data Analytics
+      * Discovery
+      * Data Preparation
+      * Model Planning
+      * Model Building
+      * Communication Result
+      * Operationalize
+    * Belajar tentang Proses Data Analytics
+      * Business Understanding
+      * Get Data
+      * Explore Data
+      * Prepare Data
+      * Analyze Data
+      * Present Findings
+3. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu keempat hari pertama)    
+   [*dokumentasi*](/assets/dokumentasi/13092021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_13092021.txt)      
+   * Belajar tentang Python
+   * Belajar memecahkan masalah dengan python
+      * Aritmatika
+      * Divide
+      * Percabangan
+      * Perulangan
+      * Fungsi
+   * Belajar tentang Jupyter Notebook
+   * Belajar tentang Google Collab
