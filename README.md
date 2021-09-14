@@ -361,3 +361,19 @@ Repository ini berisi Pengalaman belajarku
       * Fungsi
    * Belajar tentang Jupyter Notebook
    * Belajar tentang Google Collab
+
+**14 September 2021**
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Kapita Selekta (pertemuan kelima)      
+   [*resume*](/assets/resume/Kapita%20Selekta/Resume_14092021.txt)      
+   * Belajar tentang Model Konsep
+   * Belajar tentang Jenis Model
+      * berdsarkan aktivitas
+      * berdasarkan objek
+   * Belajar tentang Metafora Antarmuka
+   * Belajar tentang Cara Berinteraksi
+   * Belajar tentang Desain berfokus pada Pengguna
+   * Belajar tentang Waterfall Model
+   * Belajar tentang Simple Model
+   * Belajar tentang Star Model
+   * Belajar tentang Model Useability Technique
+   * Belajar tentang Desain Participatory
