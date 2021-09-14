@@ -1,0 +1,54 @@
+Algoritma
+- Prosedur atau formula untuk memecahkab masalah berdasarkan urutan tindakan tertentu
+
+Struktur Data
+- cara tertentu untuk mengatur data dalam komputer sehingga dapat digunakan secara efektif
+
+Bahasa Pemrograman
+- Bahasa yang dapat digunakan untuk berkomunikasi antara Komputer dan Manusia atau Programmer
+- Fungsi utamanya adalah sebagai alat untuk memeberikan perintah kepada komputer agar dapat bergerak mengolah kata sesuai dengan apa yang kita inginkan.
+- Hasil keluaran berupa aplikasi maupun suatu program
+
+Tingkatan Bahasa Pemrograman
+- Low Level Language (Machine Language), yaitu berisi intruksi-instruksi yang ditujukan kepada komputer dengan menggunakan kode biner (binary). kode tersebut tidak melalui proses kompilasi.
+- Middle Level Language (Asssembly Language), yaitu instruksi berupa kode mnemonic yang harus diterjemahkan terlebih dahulu ke dalam bahasa mesin, biasanya yg melakukan proses terjemah tersebut adalah program.
+- High Level Language (similar to human language), yaitu berisi instruksi dalam bahasa yang lebih mudah dipahami manusia.
+
+Compiler
+Source Code --preprocessing--> Object Code --processing--> Machine
+
+Interpreter
+Source Code --preprocessing--> Intermediate Code --processing--> Interpreter
+
+Library
+- kumpulan kode atau script program yang berisi variabel, konstanta, tipe data, object, dan fungsi yang ditulis untuk tujuan tertentu
+
+Variabel
+- tempat untuk menyimpan data dengan tipe tertentu di dalam memori komputer (RAM) yang dapat dikelola dan dioperasikan
+
+Tipe Data
+- Primitive
+-- Integer, yaitu bilangan bulat
+-- Float, yaitu bilangan bulat berkoma
+-- String, yaitu kumpulan alfabet, kata atau karakter.
+-- Boolean, yaitu tipe data yang hanya memiliki nilai 1 atau 0, True atau False
+- Non Primitive
+-- Array, yaitu mampu menyimpan beberapa data dengan tipe yang sama
+-- List, yaitu mampu menyimpan beberapa data dalam tipe yg berbeda
+--- Linear
+---- Stack, yakni kumpulan objek yang mengikuti konsep LIFO (Last In First Out)
+---- Queue, yakni kumpulan objek yang mengikuti konsep FIFO (First In First Out)
+--- Non Linear
+---- Graphs, yakni menghubungkan satu titik dengan titik lainnya
+---- Trees, yakni bercabang menyerupai pohon
+-- Tuple, yakni urutan objek yang tidak dapat diubah
+-- Dictionary, yakni urutan yang berisi Key dan Value
+-- Set, yakni sekumpulan objek yang berbeda (unik)
+-- File
+
+Operator
+- simbol khususu yang melakukan perhitungan aritmatika atau logika
+- Aritmatika, yakni digunakan untuk melakukan operasi matematika.
+- Perbandingan, yakni digunakan untuk membandingkan nilai.
+- Logika, yakni digunakan untuk mengondisikan dua atau lebih statement
+
