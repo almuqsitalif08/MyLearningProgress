@@ -364,7 +364,7 @@ Repository ini berisi Pengalaman belajarku
 
 **14 September 2021**
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Kapita Selekta (pertemuan kelima)      
-   [*resume*](/assets/resume/Kapita%20Selekta/Resume_14092021.txt)      
+   [*resume*](/assets/resume/Interaksi%20Manusia%20dan%20Komputer/Resume_14092021.txt)      
    * Belajar tentang Model Konsep
    * Belajar tentang Jenis Model
       * berdsarkan aktivitas
