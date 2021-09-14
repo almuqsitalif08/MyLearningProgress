@@ -377,3 +377,13 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Star Model
    * Belajar tentang Model Useability Technique
    * Belajar tentang Desain Participatory
+2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu keempat hari pertama)    
+   [*dokumentasi*](/assets/dokumentasi/14092021orbit.png)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_14092021.txt)      
+   * Belajar tentang Algoritma dan Struktur Data
+   * Belajar tentang Pengenalan Bahasa Pemrograman
+   * Belajar tentang Compiler VS Interpreter
+   * Belajar tentang Pengenalan Library
+   * Belajar tentang Variabel
+   * Belajar tentang Tipe Data
+   * Belajar tentang Operator
