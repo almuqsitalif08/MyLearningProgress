@@ -128,7 +128,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Etika TI dalam Undang-Undang
 2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari pertama)    
    [*dokumentasi*](/assets/dokumentasi/30082021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_30082021.txt)
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_30082021.txt)
    * Belajar tentang Pengertian Data
    * Belajar tentang Structured and Unstructured Data
    * Belajar tentang Jenis Data (berdasarkan sifat, skala dan sumber data)
@@ -142,7 +142,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar pentingnya Interaksi Manusia dan Komputer
 2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari kedua)    
    [*dokumentasi*](/assets/dokumentasi/31082021orbit.png)     
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_31082021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_31082021.txt)      
    * Belajar tentang Pengertian Etika AI
    * Belajar pentingnya Etika AI
    * Belajar tentang prinsip Etika AI
@@ -156,7 +156,7 @@ Repository ini berisi Pengalaman belajarku
 **01 September 2021**
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari ketiga)    
    [*dokumentasi*](/assets/dokumentasi/01092021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_01092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_01092021.txt)      
    * Belajar tentang Vektor
        * Penjumlahan
        * Pengurangan
@@ -177,7 +177,7 @@ Repository ini berisi Pengalaman belajarku
 **02 September 2021**
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari keempat)    
    [*dokumentasi*](/assets/dokumentasi/02092021orbit.png)     
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_02092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_02092021.txt)      
    * Belajar tentang Data is the New Oil.
    * Belajar tentang Revolusi Industri
    * Belajar tentang perubahan Data akibat Revolusi Industri
@@ -187,7 +187,7 @@ Repository ini berisi Pengalaman belajarku
 **03 September 2021**
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari kelima)    
    [*dokumentasi*](/assets/dokumentasi/03092021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_03092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_03092021.txt)      
    * Belajar tentang Komunikasi Efektif
    * Belajar tentang Keterampilan Komunikasi
    * Belajar tentang Proses Komunikasi
@@ -213,7 +213,7 @@ Repository ini berisi Pengalaman belajarku
 **06 September 2021**     
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari pertama)    
    [*dokumentasi*](/assets/dokumentasi/06092021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_06092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_06092021.txt)      
    * Belajar tentang Problem Scoping
    * Belajar tentang Sustainable Development Goals
    * Belajar tentang Poses sebuah masalah
@@ -250,7 +250,7 @@ Repository ini berisi Pengalaman belajarku
       * Task Conformance
 2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari kedua)    
    [*dokumentasi*](/assets/dokumentasi/07092021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_07092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_07092021.txt)      
    * Belajar tentang Data Acquisition
    * Belajar tentang Pengolahan Data
    * Belajar tentang Analisis Data
@@ -267,7 +267,7 @@ Repository ini berisi Pengalaman belajarku
 **08 September 2021**
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari ketiga)    
    [*dokumentasi*](/assets/dokumentasi/08092021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_08092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_08092021.txt)      
    * Belajar tentang Data Exploration
    * Belajar tentang Summary Descriptive Statistics
       * Frekuensi
@@ -293,7 +293,7 @@ Repository ini berisi Pengalaman belajarku
 **09 September 2021**
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari keempat)    
    [*dokumentasi*](/assets/dokumentasi/09092021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_09092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_09092021.txt)      
    * Belajar tentang Modelling
    * Belajar tentang perbedaan Traditional Programming dan Machine Learning Approach
    * Belajar tentang pendahuluan supervised dan unsupervised learning
@@ -351,7 +351,7 @@ Repository ini berisi Pengalaman belajarku
       * Present Findings
 3. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu keempat hari pertama)    
    [*dokumentasi*](/assets/dokumentasi/13092021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_13092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_13092021.txt)      
    * Belajar tentang Python
    * Belajar memecahkan masalah dengan python
       * Aritmatika
@@ -379,7 +379,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Desain Participatory
 2. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu keempat hari pertama)    
    [*dokumentasi*](/assets/dokumentasi/14092021orbit.png)      
-   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen&20Y/Resume_14092021.txt)      
+   [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_14092021.txt)      
    * Belajar tentang Algoritma dan Struktur Data
    * Belajar tentang Pengenalan Bahasa Pemrograman
    * Belajar tentang Compiler VS Interpreter
