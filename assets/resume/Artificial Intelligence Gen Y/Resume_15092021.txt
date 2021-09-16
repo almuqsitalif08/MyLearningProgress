@@ -1,0 +1,67 @@
+Struktur Data
+- Sebuah cara mengatur dan menyimpan data, sehingga dapat diakses dan dikerjakan dengan lebih efisien
+
+Tipe Data Abstrak
+- struktur data yang dapat membantu untuk fokus pada gambaran yang lebih umum daripada fokus pada detailnya yang dapat membuat kita sulit untuk memahaminya.
+
+Kendali Program, Lanjutan
+- if
+- for
+- range
+- nested if
+- pass
+- defining
+- break
+- continue
+
+Object-Oriented Programming
+- paradigma atau teknik pemrograman dimana semua hal dalam program dimodelkan seperti objek di dunia nyata.
+- memiliki ciri atau atribut dan juga aksi atau kelakuan (behavior)
+
+Istilah dalam OOP
+- Inheritance
+- Object
+- Instance
+- Class
+- Instance Variabel
+- Method
+- Class Variabel
+- Data Member
+- Function Overloading
+- Instantiation
+- Operator Overloading
+
+Algoritma
+- urutan langkah logis yang digunakan untuk menyelesaikan suatu masalah.
+- masalah yang harus diselesaikan dengan beberapa langkah yang logis.
+- berasal dari nama seorang pengarang berkebangsaan Arab bernama Abu Ja'far Mohammad ibn Musa al-Khawarizmi.
+
+Strategi dalam Menyelesaikan Algoritma
+- Divide et Impera, yaitu membagi masalah menjadi bagian-bagian kecil sehingga lebih mudah untuk diselesaikan
+- Dynamic, yaitu menguraikan solusi menjadi serangkaian langkah yang saling berkaitan
+- Greedy, yaitu pemecahan masalah dengan mengambil apapun yang ada.
+
+Dasar Penyusunan Algoritma
+- Fiteness
+- Defitininess
+- Masukan (sistem)
+- Keluaran (sistem)
+- Efektivitas
+
+Jenis Struktur Dasar Algoritma
+- Sekuensial
+- Seleksi
+- Pengulangan
+
+Algoritma Terapan
+- Tree Traversal
+-- Algoritma ini dapat menghemat komputasi
+-- Penyimpanan Data Statistik
+-- Penyimpanan Data Dinamik
+-- Pencarian Data
+- Searching
+- Sorting
+- Insertion
+- Deletion
+- Merging
+
