@@ -1,0 +1,70 @@
+## Python File I/O
+- Fungsi **open** memungkinkan anda untuk melakukan operasi file (file handling), seperti:
+  - Read, yaitu perintah untuk membaca sebuah file (kode mode: **r**)
+  - Write, yaitu perintah untuk menulis sebuah file (kode mode: **w**)
+  - Append, yaitu perintah untuk menambah isi sebuah file (kode mode: **a**)
+- Terdapat 2 struktur:
+  1. menggunakan file object
+  2. menggunakan with...as
+
+## Operasi Matematika dan Numpy
+- mengimport library NumPy: import numpy as np
+  - **note:** *as np* bersifat opsional, artinya itu digunakan hanya untuk mempermudah dalam dunia pengetikan. :blush:
+- membuat 1D array (vektor): A = np.array([1, 2, 3, 4])
+  - **note:** *A* bersifat bebas, artinya kata tersebut dapat diganti sesuai dengan aturan penamaan variabel di python.
+- membuat 2D array (matriks): A = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+- membuat matrik dengan entry atau isi data 0 dengan ukuran pxq: np.zeros(p,q)
+- membuat matrik identitas dnegan ukuran pxq: np.identity(p)
+- menghitung banyaknya entry atau isi data: A.size
+- menghitung dimensi array: A.ndim
+- menghitung ukuran array: A.shape
+- slicing,
+  - array 1D: A[*awal*:*akhir*]
+    - **note** awal dan akhir harus diganti angka atau boleh kosong. itu mengindikasikan indeks.
+  - array 2D: A[*awal*:*akhir*, *awal*:*akhir*]
+    - **note** awal dan akhir pertama mengacu pada baris dan yang lainnya mengacu pada kolom.
+- menjumlahkan array: 2+A atau A+A
+- mengurangkan array: 2-A atau A-A
+- perkalian matriks
+  - skalar artinya matriks dikali dengan angka skalar
+  - antar entry artinya perkalian sesama koordinat: A*B
+  - matriks: np.matmul(A*B
+    - **note:** A dan B adalah array NumPy
+- mean: np.mean(A)
+- median: np.median(A)
+- nilai maksimum: np.max(A)
+- sorting: np.sort(A)
+- transpose: np.transpose(A)
+- determinan: np.linalg.det(A)
+- invers: np.linalg.inv(A)
+- eigen and vector: np.linalg.eig(A)
+
+## Pandas
+- library python untuk membaca dan menganalisis data di python
+- mengimport library Pandas: import pandas as pd
+  - **note:** *as pd* bersifat opsional, artinya itu digunakan hanya untuk mempermudah dalam dunia pengetikan. :blush:
+- DataFrame dapat diibaratkan seperti spreadsheet dalam python
+- membuat DataFrame: df1 = pd.DataFrame(A)
+    - **note:** *df1* bersifat bebas, artinya kata tersebut dapat diganti sesuai dengan aturan penamaan variabel di python.
+- mengambil kolom tertentu: df1['*kolom1*', '*kolom2*', ...]
+  - **note:** kolom1 dan kolom2 adalah nama kolom yang ingin diambil (harus sama). tanda ... berarti kolom yang diambil tidak terbatas (sejumlah kolom yang ada)
+- memilih sebagian dari DataFrame (berdasarkan nilai entry-nya): df1['kolom1' == 'F']
+- memilih sebagian dari DataFrame (berdasarkan indexnya): df1.iloc[*awal*:*akhir*, *awal*:*akhir*]
+- mendapatkan atau import data
+  - csv file dari local computer: csv_df = pd.read_csv(*csv_path*)
+    - **note:** csv_path diisi dengan lokasi file csv yang ada di local computer. *csv_df* bersifat bebas, artinya kata tersebut dapat diganti sesuai dengan aturan penamaan variabel di python.
+  - csv file dari web: csv_df = pd.read_csv(*csv_url*)
+    - **note:** csv_url diisi dengan alamat website tempat csv berada.
+  - xls file dari local computer: xls_df = pd.read_excel(*xls_path*)
+    - **note:** xls_path diisi dengan lokasi file xls yang ada di local computer. *xls_df* bersifat bebas, artinya kata tersebut dapat diganti sesuai dengan aturan penamaan variabel di python.
+  - json file dari web: json_df = pd.read_json(*json_url*)
+    - **note:** json_url diisi dengan alamat website tempat json berada.
+- membuat statistik deskriptif,
+  - numerik: df1.describe()
+  - non-numerik: df1.describe(include=["*tipe*","*tipe*",...])
+    - **note:** tipe harus diganti tipe data yang ingin dibuat statistik deskriptifnya
+- membuat histogram: df1.hist()
+
+## Visualisasi Data
+- matplotlib, yaitu library python yang sangat berguna untuk visualisasi data
+- seaborn, yaitu library python yang sangat berguna untuk visualisasi data
