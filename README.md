@@ -412,3 +412,9 @@ Repository ini berisi Pengalaman belajarku
    * Belajar Visualisasi Data
       * Matplotlib
       * Seaborn 
+2. [Universitas Nurul Jadid](https://www.unuja.ac.id/) kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), minggu keempat)     
+   [*dokumentasi*](/assets/dokumentasi/17092021orbit.png)
+   [*resume*](/assets/resume/Pemrograman%20Android%20dengan%20Kotlin/Resume_17092021.md)      
+   * Belajar tentang Opsi Penyimpanan Data
+   * Belajar tentang Share Preferences
+   * Belajar tentang SQLite Database
