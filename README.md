@@ -431,3 +431,14 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Penanggulangan Cybercrime
    * Belajar mengenai Kondisi Kita saat ini
    * Belajar tentang Pilar-pilar Pengokoh
+2. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Kapita Selekta (pertemuan ketujuh)      
+   [*dokumentasi*](/assets/dokumentasi/20092021kapsel.png)      
+   [*resume*](/assets/resume/Kapita%20Selekta/Resume_20092021.md)      
+   * Belajar tentang Proses Data Analytics
+     * Business Questions
+     * Get Data
+     * Explore Data
+     * Prepare Data
+     * Analyze Data
+     * Present Findings (Data Visualization)
+   * Belajar tentang Data Analytics VS Data Science
