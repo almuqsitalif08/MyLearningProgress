@@ -1,7 +1,7 @@
 # MyLearningProgress
 Repository ini berisi Pengalaman belajarku   
 
-**5 Agustus 2021**   
+## 5 Agustus 2021   
 1. [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (Progress 52%) di [Dicoding Indonesia](https://www.dicoding.com/).
   * Belajar mengenal beberapa VCS (Version Control System), terutama yg digunakan oleh perusahaan raksasa dunia seperti Facebook yang menggunakan Mercurial dan Twitter yang menggunakan Git.
     * Belajar beberapa format penulisan untuk tipe data file md (markdown).
@@ -18,7 +18,7 @@ Repository ini berisi Pengalaman belajarku
     * [Struktur Data dengan Javascript](https://class.buildwithangga.com/welcome_course/struktur-data-dengan-javascript)
     * [Belajar Data Science dengan Python Pandas](https://class.buildwithangga.com/welcome_course/belajar-data-science-dengan-python-pandas)
 
-**6 Agustus 2021**   
+## 6 Agustus 2021   
 1. [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (Progress 62%) di [Dicoding Indonesia](https://www.dicoding.com/).
     * Belajar beralih *branch* di Github
     * Belajar *merge* pada *branch* di Github
@@ -35,7 +35,7 @@ Repository ini berisi Pengalaman belajarku
     * Mobile Computing
     * Pengenalan Pola
 
-**7 Agustus 2021**
+## 7 Agustus 2021
 1. [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) (Progress 100%) di [Dicoding Indonesia](https://www.dicoding.com/).
     * Belajar Kolaborasi Tim di Github
     * Belajar menambahkan Kontributor di repository
@@ -48,7 +48,7 @@ Repository ini berisi Pengalaman belajarku
  2. Mendapatkan [Sertifikat Kelulusan](https://www.dicoding.com/certificates/2VX32646VPYQ) pada kelas [Belajar Dasar Git dengan Github](https://www.dicoding.com/academies/317) di [Dicoding Indonesia](https://www.dicoding.com/).   
     ![Sertifikat Kelulusan Kelas Belajar Dasar Git dengan Github!](/assets/github_sertif.jpg)
 
-**25 Agustus 2021**    
+## 25 Agustus 2021    
 1. Orbit Future Academy kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari ketiga)    
    [*dokumentasi*](/assets/dokumentasi/25082021orbit.png)
    * Belajar tentang Domain AI
@@ -56,7 +56,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Natural Language Processing (Pengantar, Penerapan)
    * Belajar tentang Computer Vision (Pengantar, Penerapan)
 
-**26 Agustus 2021**    
+## 26 Agustus 2021    
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari keempat)    
    [*dokumentasi*](/assets/dokumentasi/26082021orbit.png) 
    * Belajar tentang System Thinking
@@ -66,7 +66,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang System Map
    * Belajar tentang Proyek Vegita (Studi Kasus Harga Kimchi)
 
-**27 Agustus 2021**
+## 27 Agustus 2021
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), hari kelima)    
    [*dokumentasi*](/assets/dokumentasi/27082021orbit.png) 
    * Belajar tentang Potensi Diri
@@ -87,7 +87,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar cara mirror Real Device
    * Belajar tentang UI dan UX 
 
-**28 Agustus 2021**    
+## 28 Agustus 2021    
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Cloud Computing (Pertemuan kedua)      
    [*dokumentasi*](/assets/dokumentasi/28082021cloud.png)     
    * Belajar tentang Big Data
@@ -104,7 +104,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar cara menjalankan Aplikasi di Emulator dan Real Device (Praktikum)
    * Belajar cara mirror Perangkat Android di PC (Praktikum)
 
-**30 Agustus 2021**
+## 30 Agustus 2021
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Etika Profesi (Pertemuan pertama)      
    [*dokumentasi*](/assets/dokumentasi/30082021etprof.png)     
    [*resume*](/assets/resume/Etika%20Profesi/Resume_31082021.md)     
@@ -134,7 +134,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Jenis Data (berdasarkan sifat, skala dan sumber data)
    * Belajar tentang Kualitas Data
 
-**31 Agustus 2021**
+## 31 Agustus 2021
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Interaksi Manusia dan Komputer (Pertemuan kedua)     
    [*resume*](/assets/resume/Interaksi%20Manusia%20dan%20Komputer/Resume_31082021.md)         
    * Belajar tentang pengertian Interaksi Manusia dan Komputer
@@ -153,7 +153,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar cara memperbaiki Bias pada AI
    * Belajar tentang Masa Depan AI
 
-**01 September 2021**
+## 01 September 2021
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari ketiga)    
    [*dokumentasi*](/assets/dokumentasi/01092021orbit.png)      
    [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_01092021.md)      
@@ -174,7 +174,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Peluang Bersyarat
    * Teorema Bayes
 
-**02 September 2021**
+## 02 September 2021
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari keempat)    
    [*dokumentasi*](/assets/dokumentasi/02092021orbit.png)     
    [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_02092021.md)      
@@ -184,7 +184,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Big Data (Volume, Velocity, Variety)
    * Belajar tentang karakteristik Big Data
 
-**03 September 2021**
+## 03 September 2021
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu kedua hari kelima)    
    [*dokumentasi*](/assets/dokumentasi/03092021orbit.png)      
    [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_03092021.md)      
@@ -210,7 +210,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar cara menghubungkan Activity dengan Layout
    * Belajar cara mendeklarasikan Activity di AndroidManifest
 
-**06 September 2021**     
+## 06 September 2021     
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari pertama)    
    [*dokumentasi*](/assets/dokumentasi/06092021orbit.png)      
    [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_06092021.md)      
@@ -222,7 +222,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar bahwa mengidentifikasi masalah yang tepat dapat membuat perencanaan yang lebih baik
    * Belajar berkelompok dengan pokok bahasan kasus dari salah satu Reference CBSE Study Material
 
-**07 September 2021**    
+## 07 September 2021    
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Interaksi Manusia dan Komputer (Pertemuan ketiga)     
    [*dokumentasi*](/assets/dokumentasi/07092021imk.png)      
    [*resume*](/assets/resume/Interaksi%20Manusia%20dan%20Komputer/Resume_07092021.md)         
@@ -264,7 +264,7 @@ Repository ini berisi Pengalaman belajarku
       * Observasi
       * API
 
-**08 September 2021**
+## 08 September 2021
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari ketiga)    
    [*dokumentasi*](/assets/dokumentasi/08092021orbit.png)      
    [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_08092021.md)      
@@ -290,7 +290,7 @@ Repository ini berisi Pengalaman belajarku
    *  Belajar cara menyajikan dan menyampaikan Data
    *  Belajar beberapa kesalahan dalam menyajikan data
 
-**09 September 2021**
+## 09 September 2021
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu ketiga hari keempat)    
    [*dokumentasi*](/assets/dokumentasi/09092021orbit.png)      
    [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_09092021.md)      
@@ -300,7 +300,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang pendahuluan Artificial Intelligence dan Deep Learning
    * Belajar tentang Confusion Matrix
 
-**10 September 2021**
+## 10 September 2021
 1. [Universitas Nurul Jadid](https://www.unuja.ac.id/) kelas Pemrograman Android dengan Kotlin ([Kredensial Mikro Mahasiswa Indonesia](https://kmmi.kemdikbud.go.id/), pertemuan kelima, belajar mandiri)     
    [*resume*](/assets/resume/Pemrograman%20Android%20dengan%20Kotlin/Resume_10092021.md)      
    * Belajar tentang UI dan UX
@@ -311,7 +311,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar mengenal Themes
    * Belajar mengenal Font dan Color
 
-**11 September 2021**
+## 11 September 2021
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Cloud Computing (Pertemuan keempat)     
    [*dokumentasi*](/assets/dokumentasi/11092021cloud.png)      
    * Belajar tentang beberapa kasus Illegal Access pada Cloud Computing
@@ -319,7 +319,7 @@ Repository ini berisi Pengalaman belajarku
       * Ransomware
       * Injection SQL 
 
-**13 September 2021**
+## 13 September 2021
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Mobile Computing (belajar mandiri)     
    * Menyelesaikan beberapa tutorial di [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/beginner-videos)
       * Hello Codi!
@@ -362,7 +362,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Jupyter Notebook
    * Belajar tentang Google Collab
 
-**14 September 2021**
+## 14 September 2021
 1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Kapita Selekta (pertemuan kelima)      
    [*resume*](/assets/resume/Interaksi%20Manusia%20dan%20Komputer/Resume_14092021.md)      
    * Belajar tentang Model Konsep
@@ -388,7 +388,7 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Tipe Data
    * Belajar tentang Operator
 
-**15 September 2021**
+## 15 September 2021
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu keempat hari ketiga)    
    [*dokumentasi*](/assets/dokumentasi/15092021orbit.png)      
    [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_15092021.md)      
@@ -402,7 +402,7 @@ Repository ini berisi Pengalaman belajarku
       * Jenis Struktur Dasar
       * Algoritma Terapan
 
-**16 September 2021**
+## 16 September 2021
 1. [Orbit Future Academy](https://orbitfutureacademy.id/) kelas Artificial Intelligence Gen Y ([Studi Independen Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/), minggu keempat hari keempat)    
    [*dokumentasi*](/assets/dokumentasi/16092021orbit.png)      
    [*resume*](/assets/resume/Artificial%20Intelligence%20Gen%20Y/Resume_16092021.md)      
@@ -418,3 +418,16 @@ Repository ini berisi Pengalaman belajarku
    * Belajar tentang Opsi Penyimpanan Data
    * Belajar tentang Share Preferences
    * Belajar tentang SQLite Database
+
+## 20 September 2021
+1. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Etika Profesi (Pertemuan kelima, mandiri)      
+   [*resume*](/assets/resume/Etika%20Profesi/Resume_20092021.md)     
+   * Belajar tentang Pengertian Cybercrime
+   * Belajar tentang 2 Jenis Kejahatan Konvensional
+     * Blue Collar Crime
+     * White Collar Crime
+   * Belajar tentang Karakteristik Cybercrime
+   * Belajar tentang Jenis Cybercrime
+   * Belajar tentang Penanggulangan Cybercrime
+   * Belajar mengenai Kondisi Kita saat ini
+   * Belajar tentang Pilar-pilar Pengokoh
