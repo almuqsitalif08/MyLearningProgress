@@ -442,3 +442,17 @@ Repository ini berisi Pengalaman belajarku
      * Analyze Data
      * Present Findings (Data Visualization)
    * Belajar tentang Data Analytics VS Data Science
+3. [Universitas Sriwijaya](https://www.unsri.ac.id/) kelas Pengenalan Pola (pertemuan pertama)      
+   [*resume*](/assets/resume/Pengenalan%20Pola/Resume_20092021.md)      
+   * Belajar tentang Data dan Informasi
+   * Belajar tentang Tipe Data:
+     * Teks
+     * Gambar
+     * Suara
+     * Video
+   * Belajar mengenal Visi Komputer
+   * Belajar mengenal Bidang Ilmu yang berkaitan dengan Citra
+     * Komputer Grafik
+     * Pengolahan Citra
+     * Pengenalan Pola
+
